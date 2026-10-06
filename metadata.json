@@ -1,0 +1,6 @@
+{
+  "name": "MoneyPilot",
+  "description": "Offline-first personal money management with income, expense, savings, investments, budgets, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

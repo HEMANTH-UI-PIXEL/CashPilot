@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Golden circular shield/coin backing -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M54,26 A28,28 0 1,1 53.9,26 Z" />
+    <path
+        android:fillColor="#059669"
+        android:pathData="M54,29 A25,25 0 1,1 53.9,29 Z" />
+
+    <!-- Paper airplane / Pilot wing pointing up-right, representing growth & direction -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,68 L50,40 L70,36 L56,58 Z" />
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M50,40 L70,36 L44,60 Z" />
+    <path
+        android:fillColor="#CBD5E1"
+        android:pathData="M44,60 L50,40 L44,52 Z" />
+
+    <!-- Currency spark / compass star in emerald/gold -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M64,54 L66,59 L71,61 L66,63 L64,68 L62,63 L57,61 L62,59 Z" />
+</vector>
